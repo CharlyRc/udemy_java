@@ -76,6 +76,7 @@ public class Main {
 
         planeteMars.accueillirVaisseau(vaisseauMonde);
         planeteMars.accueillirVaisseau(chasseur);
+        System.out.println("Test pour changement jenkins");
 
     }
 }
